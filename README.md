@@ -1,4 +1,4 @@
-# MFFGCN: Multi-feature fusion graph convolutional network for pedestrian trajectory prediction 
+# Enhancing Pedestrian Trajectory Prediction through Multi-feature Fusion Graph Convolutional Networks 
 ### Setup: 
 The code was written using python 3.7. 
 The following libraries are the minimal to run the code: 
